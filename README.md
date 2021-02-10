@@ -8,7 +8,7 @@ If we add `print dipole ` in a rt-tddft it will print dipole vector in the given
 
 ## Python script
 
-To do this, you can use this python script <a id="raw-url" href="https://github.com/Yavar-Azar/RT_TDDFT/blob/main/rt-tddft.py">Download FILE</a> to generate spectra image
+To do this, you can use this python script <a id="raw-url" href="https://github.com/Yavar-Azar/RT_TDDFT/blob/main/rt-tddft.py">rt-tddft</a> to generate spectra image
 ```bash
 python rt-tddft.py output.nwo -wi 0.0 wf 25.0
 ```
